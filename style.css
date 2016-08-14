@@ -10,7 +10,7 @@ body {
 
 .nav li {
     display: inline-block;
-    width: 22%;
+    width: 19.85%;
     height: 70%;
     text-align: center;
     font: bolder 1em 'Lato', sans-serif;
@@ -41,7 +41,7 @@ body {
     }
 
 h2 {
-     font: bolder 1.5em 'Lato', sans-serif ;
+     font: bolder 2em 'Lato', sans-serif ;
      color: #E32F22;
      width: 93%;
      padding-top: 1.5%;
@@ -49,10 +49,10 @@ h2 {
     }
 
 #aboutus {
+    font: bolder 2em 'Lato', sans-serif ;
     page-break-before: always;
     page-break-after: always;
-    font: bolder 1.5em 'Lato', sans-serif ;
-     color: #E32F22;
+    color: #E32F22;
      width: 93%;
      margin: 50% 1.5% 10% 1.5%;
     }
@@ -60,11 +60,10 @@ h2 {
 #events {
     page-break-before: always;
     page-break-after: always;
-    font: bolder 1.5em 'Lato', sans-serif ;
+    font: bolder 2em 'Lato', sans-serif;
      color: #E32F22;
      width: 93%;
-     padding: 80px 0 80px 0;
-     margin: 1.5em 1.5em 10em 1.5em;
+     margin: 50% 1.5% 10% 1.5%;
     }
     
 .livingroom {
@@ -186,7 +185,7 @@ input {
     
 button {
     font: bold 1.1em 'Lato', sans-serif;
-     margin: 2.5%;
+     margin: 5%;
      color: #E32F22;
     }
 
@@ -226,6 +225,5 @@ footer {
     font: normal 1em 'Lato', sans-serif;
     margin: 3%;
     text-align: center;
-    
-}
+    }
     
