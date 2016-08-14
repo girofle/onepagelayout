@@ -1,7 +1,7 @@
 body {
     width: 960px;
-    margin: auto
-}
+    margin: auto;
+    }
 
 .nav ul {
     list-style: none;
@@ -46,6 +46,25 @@ h2 {
      width: 93%;
      padding-top: 1.5%;
      margin: 0 1.5% 1.5% 1.5%;
+    }
+
+#aboutus {
+    page-break-before: always;
+    page-break-after: always;
+    font: bolder 1.5em 'Lato', sans-serif ;
+     color: #E32F22;
+     width: 93%;
+     margin: 50% 1.5% 10% 1.5%;
+    }
+
+#events {
+    page-break-before: always;
+    page-break-after: always;
+    font: bolder 1.5em 'Lato', sans-serif ;
+     color: #E32F22;
+     width: 93%;
+     padding: 80px 0 80px 0;
+     margin: 1.5em 1.5em 10em 1.5em;
     }
     
 .livingroom {
